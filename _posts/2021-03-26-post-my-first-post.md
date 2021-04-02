@@ -31,9 +31,13 @@ Moreover, the process of the development of this project consisted of several ph
 ## _**Images**_
 
 **Main Menu**
-![Menu](https://postimg.cc/Fds9FTZQ)
+
+![Sales-System-Refaccionaria-On-the-Go.png](https://i.postimg.cc/W30tnKqt/Sales-System-Refaccionaria-On-the-Go.png)
 
 
+**Inventory CSV**
+
+[![Inventory](https://i.postimg.cc/MK2NNLMq/Captura-de-pantalla-3580.png)](https://postimg.cc/PNyS82QR)
 
 
 ## _**Further Resources**_
