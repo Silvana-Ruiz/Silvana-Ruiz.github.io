@@ -30,12 +30,18 @@ Moreover, the process of the development of this project consisted of several ph
 
 ## _**Images**_
 
+**Main Menu**
+![Menu](https://postimg.cc/Fds9FTZQ)
+
+
 
 
 ## _**Further Resources**_
 
-Website to do DML online
+Website to do DML online:
 
 [Lucid Chart](https://lucid.app/documents#/dashboard)
 
+C++ Classes and Objects explanation:
 
+[C++ Classes and Objects](https://www.w3schools.com/cpp/cpp_classes.asp)
