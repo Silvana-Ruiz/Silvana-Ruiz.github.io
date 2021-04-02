@@ -3,6 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Hello! My name is Silvana and I am studying a B.S. in Computer Science and Technology. I am currently working with Pyhton, C++, R, and Matlab. I am interested in learning more about bioinformatics as well as artificial intelligence and data science. I would love to learn from others and collaborate in proyects that help solve problems that people face on a daily basis. My pronouns are she/her. I speak spanish (native), english (advanced), and german (beginner). My strenghs include writing, public speaking, creatitvity, team work, responsibility, adaptabiliy, and honesty. Moreover, during my free time I like to listen to music, write, draw, pratice calligraphy, and watch k-dramas (my favorite is Crash Landing on You).
