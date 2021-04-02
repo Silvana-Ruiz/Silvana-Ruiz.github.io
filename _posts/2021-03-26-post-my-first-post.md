@@ -39,6 +39,11 @@ Moreover, the process of the development of this project consisted of several ph
 
 [![Inventory](https://i.postimg.cc/MK2NNLMq/Captura-de-pantalla-3580.png)](https://postimg.cc/PNyS82QR)
 
+**Clients CSV**
+![Clients](https://i.postimg.cc/SKSp5vPJ/Captura-de-pantalla-3582.png)]
+
+**Bills File**
+![Captura-de-pantalla-3581.png](https://i.postimg.cc/kgc5BK3R/Captura-de-pantalla-3581.png)
 
 ## _**Further Resources**_
 
